@@ -1,6 +1,4 @@
-Here's a basic description of how to create a file upload system using Multer in Node.js for your `README.md`:
 
----
 
 ### File Upload with Multer in Node.js
 
